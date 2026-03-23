@@ -1,0 +1,7 @@
+{
+  "name": "EduHouse - Nền tảng Giáo dục & Nhà sách Trực tuyến",
+  "description": "Hệ thống quản lý giáo dục và nhà sách trực tuyến EduHouse, hỗ trợ tài khoản người dùng và tài khoản chủ (host) quản lý sản phẩm.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

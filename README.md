@@ -1,2 +1,20 @@
-# EduHouse---N-n-t-ng-Gi-o-d-c-Nh-s-ch-Tr-c-tuy-n
-EduHouse - Nền tảng Giáo dục &amp; Nhà sách Trực tuyến 
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/f2ce7cb9-31b5-4772-851b-6ff4e9181d03
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
